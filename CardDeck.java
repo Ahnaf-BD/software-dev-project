@@ -14,7 +14,7 @@ public class CardDeck {
         this.cards = new LinkedBlockingQueue<>();
         this.lock = new ReentrantLock();
 
-    }   
+    }
 
     public void addCardToTop(Card card) {
         try{
@@ -50,6 +50,10 @@ public class CardDeck {
         } finally {
             lock.unlock();
         }
+    }
+
+    public int getDeckID() {
+        return deckID; // returns ID of the deck
     }
 
     public void writeDeckContentsToFile(String filename) { // filename will be entered when method called e.g. player1_output.txt
