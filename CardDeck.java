@@ -16,15 +16,6 @@ public class CardDeck {
 
     }
 
-    public void addCardToTop(Card card) {
-        try{
-            lock.lock();
-            cards.offer(card);
-        } finally {
-            lock.unlock();
-        }
-    }
-
     public void addCardToBottom(Card card) {
         try {
             lock.lock();
