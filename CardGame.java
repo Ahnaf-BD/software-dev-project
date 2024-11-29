@@ -64,4 +64,95 @@ public class CardGame {
         distributeCards();
     }
 
+    /** distibutes cards to players and decks */
+    public void distributeCards() {
+        int cardIndex= 0;
+
+        // 4 cards to each player
+        for (int i = 0; i < 4; i++) {
+            for (Player player : players) {
+                player.addInitialCard(pack.get(cardIndex++));
+            }
+        }
+        
+        // give the rest of the cards to the decks
+        for (int i = 0; i < numPlayers; i++) {
+            CardDeck deck = decks.get(i);
+            for (int j = 0; j < 4; j++) {
+                deck.addCardToDeck(pack.get(cardIndex++));
+            }
+        }
+    }
+
+    /**
+     * start game by starting all threads
+     */
+    public void startGame() {
+        List<Thread> playerThreads = new ArrayList<>();
+        for (Player player : players) {
+            Thread thread = new Thread(player);
+            playerThreads.add(thread);
+            thread.start();
+        }
+
+        // wait for winner
+        boolean gameEnded = false;
+        while (!gameEnded) {
+            for (Player player : players) {
+                if (player.hasWon()) {
+                    notifyAllPlayers(player.getPlayerID());
+                    gameEnded = true;
+                    break;
+                }
+            }
+        }
+        
+        // join threads
+        for (Thread thread : playerThreads) {
+            try {
+                thread.join();
+            } catch (InterruptedException e) {
+                System.err.println("Error waiting for player threads to finish: " + e.getMessage());
+            }
+        }
+
+        // write final deck contents to file
+        for (CardDeck deck : decks) {
+            deck.writeDeckContentsToFile(String.format("deck%d_output.txt", deck.getDeckID()));
+        }
+    }
+
+    /**
+    * notifies all players that a player has won and ends game 
+        * @param winningPlayerID ID of  winning player
+        */
+
+    public void notifyAllPlayers(int winningPlayerID) {
+        System.out.println("Player" + winningPlayerID + "has won the game");
+        for (Player player : players) {
+            player.notifyGameEnd();
+        }
+    }
+
+    public static void main(String[] args) {
+        if (args.length !=2) {
+            System.err.println("Give number of players and pack file path as arguements");
+            return;
+        }
+
+        int numPlayers = Integer.parseInt(args[0]);
+        String packFilePath = args[1];
+
+        try {
+            CardGame game = new CardGame(numPlayers, packFilePath);
+            game.startGame();
+        } catch (Exception e) {
+            System.err.println("Error starting game: " + e.getMessage());
+        }
+    }
+
 }
+
+    
+
+

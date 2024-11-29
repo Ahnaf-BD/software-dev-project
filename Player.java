@@ -159,7 +159,7 @@ public class Player implements Runnable {
                     hand.remove(cardToDiscard);
                     hand.add(drawnCard);
                     
-                    rightDeck.addCardToBottom(cardToDiscard);
+                    rightDeck.addCardToDeck(cardToDiscard);
                     writeToFile(String.format("player %d discards a %d to deck %d", 
                         playerID, cardToDiscard.getValue(), rightDeck.getDeckID()));
                     writeToFile("player " + playerID + " current hand is " + getHandString());

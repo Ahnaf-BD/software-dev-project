@@ -16,7 +16,7 @@ public class CardDeck {
 
     }
 
-    public void addCardToBottom(Card card) {
+    public void addCardToDeck(Card card) {
         try {
             lock.lock();
             cards.offer(card); // .offer() adds the element to the queue
