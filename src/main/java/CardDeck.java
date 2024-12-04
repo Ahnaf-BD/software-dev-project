@@ -1,3 +1,4 @@
+package src.main.java;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.locks.ReentrantLock;
 import java.io.BufferedWriter;

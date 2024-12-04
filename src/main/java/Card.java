@@ -1,3 +1,4 @@
+package src.main.java;
 public class Card {
     private final int value;
 

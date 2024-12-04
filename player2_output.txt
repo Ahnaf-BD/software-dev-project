@@ -1,0 +1,16 @@
+player 2 initial hand 1 1 2 2
+player 2 draws a 3 from deck 2
+player 2 discards a 1 to deck 2
+player 2 current hand is 1 2 2 3
+player 2 draws a 3 from deck 2
+player 2 discards a 3 to deck 2
+player 2 current hand is 1 2 2 3
+player 2 draws a 3 from deck 2
+player 2 discards a 3 to deck 2
+player 2 current hand is 1 2 2 3
+player 2 draws a 3 from deck 2
+player 2 discards a 3 to deck 2
+player 2 current hand is 1 2 2 3
+player 2 has been informed that another player has won
+player 2 exits
+player 2 hand: 1 2 2 3

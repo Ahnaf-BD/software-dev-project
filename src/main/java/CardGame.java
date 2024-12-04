@@ -1,8 +1,10 @@
+package src.main.java;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 
 public class CardGame {
@@ -135,13 +137,21 @@ public class CardGame {
     }
 
     public static void main(String[] args) {
-        if (args.length !=2) {
-            System.err.println("Give number of players and pack file path as arguements");
-            return;
-        }
+        Scanner scanner = new Scanner(System.in);
 
-        int numPlayers = Integer.parseInt(args[0]);
-        String packFilePath = args[1];
+        int numPlayers;
+        String packFilePath;
+
+        if (args.length !=2) {
+            System.out.print("Please enter the number of players: ");
+            numPlayers = Integer.parseInt(scanner.nextLine());
+
+            System.out.print("Please enter the location of the pack to load: ");
+            packFilePath = scanner.nextLine();
+        } else {
+            numPlayers = Integer.parseInt(args[0]);
+            packFilePath = args[1];
+        }
 
         try {
             CardGame game = new CardGame(numPlayers, packFilePath);
@@ -149,6 +159,8 @@ public class CardGame {
         } catch (Exception e) {
             System.err.println("Error starting game: " + e.getMessage());
         }
+
+        scanner.close();
     }
 
 }
