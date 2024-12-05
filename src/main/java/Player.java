@@ -9,7 +9,6 @@ import java.util.concurrent.atomic.AtomicBoolean;
 
 
 public class Player implements Runnable {
-    // Class fields
     private final int playerID;
     private final List<Card> hand;
     private final CardDeck leftDeck;
@@ -80,7 +79,7 @@ public class Player implements Runnable {
                 // Winning hand found
                 hasWon.set(true);
                 writeToFile("player " + playerID + " wins");
-                System.out.println("player " + playerID + " wins");
+                System.out.println("Player " + playerID + " wins");
                 writeToFile("player " + playerID + " exits");
                 writeToFile("player " + playerID + " final hand: " + getHandString());
                 gameEnded.set(true);

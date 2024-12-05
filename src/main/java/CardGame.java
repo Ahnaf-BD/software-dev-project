@@ -20,7 +20,7 @@ public class CardGame {
         this.pack = new ArrayList<>();
         loadPack(packFilePath);
         if (!validatePack()) {
-            throw new IllegalArgumentException("Invalid pack size, must be exactly" + (8 * numPlayers));
+            throw new IllegalArgumentException("Invalid pack size, must be exactly " + (8 * numPlayers));
         }
         setupGame();
     }
@@ -130,7 +130,7 @@ public class CardGame {
         */
 
     public void notifyAllPlayers(int winningPlayerID) {
-        System.out.println("Player" + winningPlayerID + "has won the game");
+        System.out.println("Player " + winningPlayerID + " has won the game");
         for (Player player : players) {
             player.notifyGameEnd();
         }
