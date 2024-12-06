@@ -24,13 +24,13 @@ public class CardTest {
     @Test
     // Testing getValue
     public void testGetValue() {
-        assertEquals("Card value should be 1", 1, card.getValue());
+        assertEquals("Card value should be 1,", 1, card.getValue());
     }
 
     @Test
     // Testing toString 
     public void testToString() {
-        assertEquals("String should match", "1", card.toString());
+        assertEquals("String should match integer value,", "1", card.toString());
     }
 
     @Test
