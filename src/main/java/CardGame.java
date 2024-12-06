@@ -47,11 +47,10 @@ public class CardGame {
 
     /** setup game. Create players, decks and distribute cards 
     */
-
     private void setupGame() {
         // Create decks
         for (int i = 0; i < numPlayers; i++) {
-            decks.add(new CardDeck(i));
+            decks.add(new CardDeck(i+1));
         }
 
         // Create Players

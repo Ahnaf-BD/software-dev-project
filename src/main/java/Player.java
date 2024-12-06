@@ -38,6 +38,10 @@ public class Player implements Runnable {
         this.handLock = new Object();
     }
 
+    public List getPlayerHand() {
+        return hand;
+    }
+
     /**
      * Adds a card to the player's hand during initial deal
      * @param card The card to add
@@ -93,12 +97,12 @@ public class Player implements Runnable {
      * Chooses a card to discard based on game rules
      * @return The card to discard
      */
-    private Card chooseCardToDiscard() {
+    public Card chooseCardToDiscard() {
         synchronized(handLock) {
             // Find all non-preferred cards
             List<Card> nonPreferredCards = new ArrayList<>();
             for (Card card : hand) {
-                if (card.getValue() % playerID != 0) {
+                if (card.getValue() != playerID) {
                     nonPreferredCards.add(card);
                 }
             }
@@ -143,8 +147,19 @@ public class Player implements Runnable {
             return;
         }
 
+        int iterations = 0;
+        int maxIterations = 100;
+
         while (!gameEnded.get()) {
             try {
+                // Stops infinite loops occurring (used in tests)
+                if (iterations >= maxIterations) {
+                    System.out.println("Max iterations reached");
+                    return;
+                }
+
+                iterations ++;
+
                 // Draw and discard as an atomic action
                 synchronized(handLock) {
                     Card drawnCard = leftDeck.drawCard();
@@ -160,8 +175,10 @@ public class Player implements Runnable {
                     hand.add(drawnCard);
                     
                     rightDeck.addCardToDeck(cardToDiscard);
+
                     writeToFile(String.format("player %d discards a %d to deck %d", 
                         playerID, cardToDiscard.getValue(), rightDeck.getDeckID()));
+                        
                     writeToFile("player " + playerID + " current hand is " + getHandString());
                     
                     if (checkWinningHand()) {
