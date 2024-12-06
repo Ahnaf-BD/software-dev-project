@@ -16,7 +16,7 @@ public class CardTest {
     }
 
     @AfterClass
-    // runs after tests
+    // Runs after tests
     public static void tearDownClass() {
         card = null;
     }
@@ -33,9 +33,9 @@ public class CardTest {
         assertEquals("String should match", "1", card.toString());
     }
 
-    @Test(expected = IllegalArgumentException.class)
+    @Test
     public void testConstructorWithNegative() {
-        // test to see if constructor throws error on negative value
-        new Card(-1);
+        // Test to see if constructor throws error on negative value
+        assertThrows(IllegalArgumentException.class, () -> new Card(-1));
     }
 }
