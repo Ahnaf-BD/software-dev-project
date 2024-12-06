@@ -12,8 +12,6 @@ import java.io.IOException;
 
 import static org.junit.Assert.*;
 
-import java.beans.Transient;
-
 public class CardDeckTest {
     private static CardDeck deck;
     private static Card card1;
