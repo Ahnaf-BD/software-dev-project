@@ -50,14 +50,20 @@ public class CardGame {
     private void setupGame() {
         // Create decks
         for (int i = 0; i < numPlayers; i++) {
-            decks.add(new CardDeck(i+1));
+            decks.add(new CardDeck(i));
         }
 
         // Create Players
         for (int i = 0; i < numPlayers; i++) {
-            CardDeck leftDeck = decks.get(i);
-            CardDeck rightDeck = decks.get((i + 1) % numPlayers);
-            players.add(new Player(i+1, leftDeck, rightDeck));
+            int leftDeckIndex = i;
+            int rightDeckIndex = ((i + 1) + numPlayers) % numPlayers;
+
+            // System.out.println("Player " + (i) + ": leftDeck=" + leftDeckIndex + ", rightDeck=" + rightDeckIndex);   debugging purposes
+
+            CardDeck leftDeck = decks.get(leftDeckIndex);
+            CardDeck rightDeck = decks.get(rightDeckIndex);
+
+            players.add(new Player(i, leftDeck, rightDeck));
 
         }
 

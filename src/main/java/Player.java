@@ -168,7 +168,7 @@ public class Player implements Runnable {
                     }
                     
                     writeToFile(String.format("player %d draws a %d from deck %d", 
-                        playerID, drawnCard.getValue(), leftDeck.getDeckID() + 1));
+                        playerID, drawnCard.getValue(), leftDeck.getDeckID()));
                     
                     Card cardToDiscard = chooseCardToDiscard();
                     hand.remove(cardToDiscard);

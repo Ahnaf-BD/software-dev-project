@@ -17,7 +17,7 @@ public class CardDeck {
 
     }
 
-    public void addCardToDeck(Card card) {
+    public synchronized void addCardToDeck(Card card) {
         try {
             lock.lock();
             cards.offer(card); // .offer() adds the element to the queue
@@ -26,7 +26,7 @@ public class CardDeck {
         }
     }
 
-    public Card drawCard() {
+    public synchronized Card drawCard() {
         try {
             lock.lock();
             return cards.poll(); // .poll() removes and returns the head of the queue
