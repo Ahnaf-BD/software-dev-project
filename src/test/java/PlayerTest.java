@@ -6,12 +6,8 @@ import src.main.java.Card;
 import src.main.java.CardDeck;
 import src.main.java.Player;
 
-import java.io.File;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.atomic.AtomicBoolean;
-
 import static org.junit.Assert.*;
 
 public class PlayerTest {
