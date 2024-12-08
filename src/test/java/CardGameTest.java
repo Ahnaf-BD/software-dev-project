@@ -12,12 +12,11 @@ import src.main.java.Player;
 public class CardGameTest {
 
     private CardGame cardGame;
-    private List<Player> players;
+    
 
     @Before
     public void setUp() {
         // Runs before each test
-        players = new ArrayList<>();
         int numPlayers = 2;
         String mockPackPath = "C:/Uni/ECM2414 Coursework/software-dev-project/src/test/java/mockPack.txt";
 
