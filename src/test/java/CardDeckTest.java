@@ -20,7 +20,7 @@ public class CardDeckTest {
     @Before
     public void setUpClass() {
         // Run before each test
-        deck = new CardDeck(0);
+        deck = new CardDeck(1);
         card1 = new Card(1);
         card2 = new Card(2);
     }
@@ -69,7 +69,7 @@ public class CardDeckTest {
    @Test
    public void testGetDeckID() {
         // Testing if getDeckID() method returns the correct ID
-        assertEquals("Deck ID should be 0,", 0, deck.getDeckID());
+        assertEquals("Deck ID should be 1,", 1, deck.getDeckID());
    }
 
    @Test
