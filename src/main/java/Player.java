@@ -19,6 +19,7 @@ public class Player implements Runnable {
     private Thread gameThread;
     private final Random random;
     private final Object handLock;
+    private volatile int winningPlayerID = -1;
 
     /**
      * Constructor for Player class
@@ -190,7 +191,8 @@ public class Player implements Runnable {
                 
             } catch (InterruptedException e) {
                 if (gameEnded.get()) {
-                    writeToFile("player " + playerID + " has been informed that another player has won");
+                    writeToFile(String.format("player %d has been informed that player %d has won", 
+                    playerID, winningPlayerID));
                     writeToFile("player " + playerID + " exits");
                     writeToFile("player " + playerID + " hand: " + getHandString());
                     return;
@@ -202,7 +204,8 @@ public class Player implements Runnable {
     /**
      * Notifies the player that the game has ended
      */
-    public void notifyGameEnd() {
+    public void notifyGameEnd(int winningPlayerID) {
+        this.winningPlayerID = winningPlayerID;
         gameEnded.set(true);
         if (gameThread != null) {
             gameThread.interrupt();

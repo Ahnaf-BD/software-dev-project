@@ -137,7 +137,7 @@ public class CardGame {
     public void notifyAllPlayers(int winningPlayerID) {
         System.out.println("Player " + winningPlayerID + " has won the game");
         for (Player player : players) {
-            player.notifyGameEnd();
+            player.notifyGameEnd(winningPlayerID);
         }
     }
 
