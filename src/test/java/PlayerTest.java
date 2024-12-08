@@ -1,15 +1,13 @@
 package src.test.java;
 
-import org.junit.BeforeClass;
+import org.junit.Before;
 import org.junit.Test;
 import src.main.java.Card;
 import src.main.java.CardDeck;
 import src.main.java.Player;
 
-import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicBoolean;
-
+import java.util.concurrent.CountDownLatch;
 import static org.junit.Assert.*;
 
 public class PlayerTest {
@@ -17,8 +15,8 @@ public class PlayerTest {
     private static CardDeck leftDeck;
     private static CardDeck rightDeck;
 
-    @BeforeClass
-    public static void setUp() {
+    @Before
+    public void setUp() {
         leftDeck = new CardDeck(1);
         rightDeck = new CardDeck(2);
         player = new Player(1, leftDeck, rightDeck);
@@ -105,18 +103,31 @@ public class PlayerTest {
     }
 
     @Test 
-    public void testNotifyGameEnd() {
-        // start a player thread
-        Thread playerThread = new Thread(player);
+    public void testNotifyGameEnd() throws InterruptedException {
+        // Set up synchronization
+        CountDownLatch latch = new CountDownLatch(1);
+
+        // Create the player thread
+        Thread playerThread = new Thread(() -> {
+            try {
+                player.run();
+            } catch (Exception e){
+                // Exception not expected in this case
+            } finally {
+                latch.countDown(); // Ensure the thread has started and completed
+            }
+        });
         playerThread.start();
 
+        // Wait for the player thread to start running
+        latch.await();
+        // Notify the player that the game has ended
         player.notifyGameEnd();
 
-        // see if notifyGameEnd stops thread
+        // Allow a brief moment for the interruption to take effect
+        Thread.sleep(100);
+
+        // Assert that the player thread was interrupted
         assertTrue(playerThread.isInterrupted());
     }
-
-    
-   
-    
 }
