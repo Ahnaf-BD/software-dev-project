@@ -1,1 +1,1 @@
-deck1 contents 5 2 3 2 
+deck1 contents 4 4 4 2 
