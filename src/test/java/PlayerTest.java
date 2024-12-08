@@ -87,18 +87,17 @@ public class PlayerTest {
         Card preferred3 = new Card(1);
         Card notPreferred = new Card(3);
         
+        // add cards
         player.addInitialCard(preferred1);
         player.addInitialCard(preferred2);
         player.addInitialCard(preferred3);
         player.addInitialCard(notPreferred);
-
-
-
-        leftDeck.addCardToDeck(new Card(3));
         
-        Card discarded = player.chooseCardToDiscard();
-        System.out.println(discarded);
 
+        // choose a card to discard from the hand 
+        Card discarded = player.chooseCardToDiscard();
+
+        // check if discarded card is the nonPreferred card
         assertTrue(discarded.getValue() == notPreferred.getValue());
     }
 
@@ -122,7 +121,9 @@ public class PlayerTest {
         // Wait for the player thread to start running
         latch.await();
         // Notify the player that the game has ended
-        player.notifyGameEnd();
+        // Winning player id = 5
+        int testWinningPlayerId = 5;
+        player.notifyGameEnd(testWinningPlayerId);
 
         // Allow a brief moment for the interruption to take effect
         Thread.sleep(100);

@@ -19,7 +19,7 @@ public class CardGameTest {
         // Runs before each test
         players = new ArrayList<>();
         int numPlayers = 2;
-        String mockPackPath = "src/test/java/mockPack";
+        String mockPackPath = "C:/Uni/ECM2414 Coursework/software-dev-project/src/test/java/mockPack.txt";
 
         cardGame = new CardGame(numPlayers, mockPackPath);
     }

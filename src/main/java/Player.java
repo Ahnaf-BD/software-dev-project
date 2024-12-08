@@ -34,7 +34,7 @@ public class Player implements Runnable {
         this.rightDeck = rightDeck;
         this.hasWon = new AtomicBoolean(false);
         this.gameEnded = new AtomicBoolean(false);
-        this.outputFile = String.format("player%d_output.txt", playerID);
+        this.outputFile = String.format("player%d_output.txt", playerID + 1);
         this.random = new Random();
         this.handLock = new Object();
     }
@@ -68,7 +68,7 @@ public class Player implements Runnable {
             writer.write(message);
             writer.newLine();
         } catch (IOException e) {
-            System.err.println("Error writing to file for player " + playerID + ": " + e.getMessage());
+            System.err.println("Error writing to file for player " + (playerID + 1) + ": " + e.getMessage());
         }
     }
 
@@ -87,10 +87,10 @@ public class Player implements Runnable {
                 }
                 // Winning hand found
                 hasWon.set(true);
-                writeToFile("player " + playerID + " wins");
-                System.out.println("Player " + playerID + " wins");
-                writeToFile("player " + playerID + " exits");
-                writeToFile("player " + playerID + " final hand: " + getHandString());
+                writeToFile("player " + (playerID + 1) + " wins");
+                System.out.println("Player " + (playerID + 1) + " wins");
+                writeToFile("player " + (playerID + 1) + " exits");
+                writeToFile("player " + (playerID + 1) + " final hand: " + getHandString());
                 gameEnded.set(true);
                 return true;
             }
@@ -140,7 +140,7 @@ public class Player implements Runnable {
      * Writes the initial hand to the output file
      */
     private void writeInitialHand() {
-        writeToFile("player " + playerID + " initial hand " + getHandString());
+        writeToFile("player " + (playerID + 1)+ " initial hand " + getHandString());
     }
 
     @Override
@@ -173,7 +173,7 @@ public class Player implements Runnable {
                     }
                     
                     writeToFile(String.format("player %d draws a %d from deck %d", 
-                        playerID, drawnCard.getValue(), leftDeck.getDeckID()));
+                        playerID + 1, drawnCard.getValue(), leftDeck.getDeckID() + 1));
                     
                     Card cardToDiscard = chooseCardToDiscard();
                     hand.remove(cardToDiscard);
@@ -182,9 +182,9 @@ public class Player implements Runnable {
                     rightDeck.addCardToDeck(cardToDiscard);
 
                     writeToFile(String.format("player %d discards a %d to deck %d", 
-                        playerID, cardToDiscard.getValue(), rightDeck.getDeckID()));
+                        playerID + 1, cardToDiscard.getValue(), rightDeck.getDeckID() + 1));
                         
-                    writeToFile("player " + playerID + " current hand is " + getHandString());
+                    writeToFile("player " + (playerID + 1) + " current hand is " + getHandString());
                     
                     if (checkWinningHand()) {
                         return;
@@ -196,9 +196,9 @@ public class Player implements Runnable {
             } catch (InterruptedException e) {
                 if (gameEnded.get()) {
                     writeToFile(String.format("player %d has been informed that player %d has won", 
-                    playerID, winningPlayerID));
-                    writeToFile("player " + playerID + " exits");
-                    writeToFile("player " + playerID + " hand: " + getHandString());
+                    playerID + 1, winningPlayerID + 1));
+                    writeToFile("player " + (playerID + 1) + " exits");
+                    writeToFile("player " + (playerID + 1) + " hand: " + getHandString());
                     return;
                 }
             }
