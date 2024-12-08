@@ -3,8 +3,6 @@ package src.test.java;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import java.util.List;
-import java.util.ArrayList;
 import src.main.java.CardDeck;
 import src.main.java.CardGame;
 import src.main.java.Player;
