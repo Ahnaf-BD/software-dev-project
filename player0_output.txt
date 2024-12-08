@@ -14,3 +14,1537 @@ player 0 current hand is 3 3 3 3
 player 0 wins
 player 0 exits
 player 0 final hand: 3 3 3 3
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 1 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 1 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 3 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 3 3 3 3
+player 0 wins
+player 0 exits
+player 0 final hand: 3 3 3 3
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 2 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 2 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 2 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 2 3 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 2 3 3 3
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 2 3 3 2
+player 0 has been informed that another player has won
+player 0 exits
+player 0 hand: 2 3 3 2
+player 0 initial hand 1 3 5 7
+player 0 draws a 9 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 1 3 5 9
+player 0 draws a 10 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 1 3 9 10
+player 0 draws a 11 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 1 3 10 11
+player 0 draws a 12 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 3 10 11 12
+player 0 draws a 8 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 3 10 11 8
+player 0 draws a 13 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 3 10 11 13
+player 0 draws a 14 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 3 11 13 14
+player 0 draws a 6 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 3 11 14 6
+player 0 draws a 15 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 3 14 6 15
+player 0 draws a 7 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 14 6 15 7
+player 0 draws a 4 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 14 6 15 4
+player 0 draws a 2 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 14 15 4 2
+player 0 draws a 5 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 14 15 4 5
+player 0 draws a 12 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 14 4 5 12
+player 0 draws a 9 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 14 4 5 9
+player 0 draws a 8 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 14 5 9 8
+player 0 draws a 13 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 14 5 8 13
+player 0 draws a 10 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 14 8 13 10
+player 0 draws a 3 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 8 13 10 3
+player 0 draws a 11 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 8 13 3 11
+player 0 draws a 16 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 13 3 11 16
+player 0 draws a 6 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 13 11 16 6
+player 0 draws a 7 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 13 11 6 7
+player 0 draws a 15 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 13 11 6 15
+player 0 draws a 4 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 13 11 15 4
+player 0 draws a 12 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 11 15 4 12
+player 0 draws a 5 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 11 15 12 5
+player 0 draws a 14 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 11 15 5 14
+player 0 draws a 2 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 11 15 14 2
+player 0 draws a 9 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 11 15 14 9
+player 0 draws a 8 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 11 15 9 8
+player 0 draws a 10 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 11 9 8 10
+player 0 draws a 16 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 11 8 10 16
+player 0 draws a 6 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 11 8 16 6
+player 0 draws a 3 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 11 8 16 3
+player 0 draws a 13 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 8 16 3 13
+player 0 draws a 7 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 8 16 3 7
+player 0 draws a 12 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 8 16 7 12
+player 0 draws a 5 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 16 7 12 5
+player 0 draws a 4 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 16 7 12 4
+player 0 draws a 14 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 16 7 12 14
+player 0 draws a 15 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 16 7 14 15
+player 0 draws a 10 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 16 7 15 10
+player 0 draws a 2 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 16 7 15 2
+player 0 draws a 9 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 16 15 2 9
+player 0 draws a 11 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 16 15 9 11
+player 0 draws a 13 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 16 9 11 13
+player 0 draws a 8 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 16 9 11 8
+player 0 draws a 3 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 16 9 11 3
+player 0 draws a 5 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 16 9 11 5
+player 0 draws a 4 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 16 9 5 4
+player 0 draws a 14 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 16 9 4 14
+player 0 draws a 12 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 9 4 14 12
+player 0 draws a 7 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 9 4 14 7
+player 0 draws a 10 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 9 4 14 10
+player 0 draws a 2 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 9 4 10 2
+player 0 draws a 6 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 9 10 2 6
+player 0 draws a 13 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 10 2 6 13
+player 0 draws a 15 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 10 2 6 15
+player 0 draws a 8 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 2 6 15 8
+player 0 draws a 11 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 2 15 8 11
+player 0 draws a 5 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 2 15 11 5
+player 0 draws a 12 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 15 11 5 12
+player 0 draws a 3 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 15 11 5 3
+player 0 draws a 14 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 11 5 3 14
+player 0 draws a 4 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 11 5 3 4
+player 0 draws a 7 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 11 5 4 7
+player 0 draws a 16 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 5 4 7 16
+player 0 draws a 13 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 4 7 16 13
+player 0 draws a 10 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 7 16 13 10
+player 0 draws a 6 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 16 13 10 6
+player 0 draws a 9 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 13 10 6 9
+player 0 draws a 8 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 10 6 9 8
+player 0 draws a 2 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 10 9 8 2
+player 0 draws a 15 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 10 8 2 15
+player 0 draws a 3 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 10 8 2 3
+player 0 draws a 14 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 8 2 3 14
+player 0 draws a 11 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 8 2 3 11
+player 0 draws a 12 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 8 2 11 12
+player 0 draws a 7 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 2 11 12 7
+player 0 draws a 16 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 11 12 7 16
+player 0 draws a 13 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 11 12 16 13
+player 0 draws a 6 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 11 16 13 6
+player 0 draws a 4 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 11 16 6 4
+player 0 draws a 9 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 11 16 6 9
+player 0 draws a 15 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 11 16 9 15
+player 0 draws a 5 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 16 9 15 5
+player 0 draws a 3 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 16 9 15 3
+player 0 draws a 14 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 9 15 3 14
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 9 15 14 2
+player 0 draws a 10 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 9 15 2 10
+player 0 draws a 7 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 9 15 10 7
+player 0 draws a 8 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 9 15 7 8
+player 0 draws a 4 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 9 7 8 4
+player 0 draws a 13 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 9 7 4 13
+player 0 draws a 11 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 9 7 13 11
+player 0 draws a 5 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 7 13 11 5
+player 0 draws a 16 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 7 11 5 16
+player 0 draws a 3 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 7 11 5 3
+player 0 draws a 6 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 7 11 5 6
+player 0 initial hand 1 3 5 7
+player 0 draws a 9 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 1 3 7 9
+player 0 draws a 10 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 1 3 7 10
+player 0 draws a 11 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 7 10 11
+player 0 draws a 12 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 1 7 11 12
+player 0 draws a 6 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 1 11 12 6
+player 0 draws a 2 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 11 12 6 2
+player 0 draws a 8 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 11 6 2 8
+player 0 draws a 14 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 6 2 8 14
+player 0 draws a 15 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 2 8 14 15
+player 0 draws a 13 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 8 14 15 13
+player 0 draws a 5 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 8 14 13 5
+player 0 draws a 9 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 8 14 5 9
+player 0 draws a 10 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 8 5 9 10
+player 0 draws a 3 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 8 5 10 3
+player 0 draws a 7 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 5 10 3 7
+player 0 draws a 12 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 5 10 3 12
+player 0 draws a 4 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 5 3 12 4
+player 0 draws a 16 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 5 3 12 16
+player 0 draws a 6 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 5 3 12 6
+player 0 draws a 15 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 5 3 6 15
+player 0 draws a 13 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 5 3 15 13
+player 0 draws a 2 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 5 3 13 2
+player 0 draws a 11 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 3 13 2 11
+player 0 draws a 8 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 13 11 8
+player 0 draws a 9 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 3 13 8 9
+player 0 draws a 14 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 3 8 9 14
+player 0 draws a 4 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 8 9 14 4
+player 0 draws a 16 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 8 9 14 16
+player 0 draws a 7 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 8 9 16 7
+player 0 draws a 12 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 8 9 7 12
+player 0 draws a 10 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 8 7 12 10
+player 0 draws a 15 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 8 12 10 15
+player 0 draws a 5 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 8 12 15 5
+player 0 draws a 6 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 8 12 15 6
+player 0 draws a 11 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 8 12 6 11
+player 0 draws a 13 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 8 12 11 13
+player 0 draws a 2 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 8 12 13 2
+player 0 draws a 4 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 8 12 2 4
+player 0 draws a 16 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 12 2 4 16
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 12 4 16 3
+player 0 draws a 14 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 12 16 3 14
+player 0 draws a 9 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 16 3 14 9
+player 0 draws a 7 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 16 14 9 7
+player 0 draws a 5 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 16 9 7 5
+player 0 draws a 6 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 9 7 5 6
+player 0 draws a 15 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 9 7 6 15
+player 0 draws a 13 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 7 6 15 13
+player 0 draws a 11 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 7 6 15 11
+player 0 draws a 10 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 6 15 11 10
+player 0 draws a 8 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 6 11 10 8
+player 0 draws a 4 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 6 10 8 4
+player 0 draws a 12 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 10 8 4 12
+player 0 draws a 14 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 8 4 12 14
+player 0 draws a 3 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 8 4 12 3
+player 0 draws a 2 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 4 12 3 2
+player 0 draws a 9 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 4 12 2 9
+player 0 draws a 16 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 4 12 9 16
+player 0 draws a 13 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 4 9 16 13
+player 0 draws a 5 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 4 16 13 5
+player 0 draws a 11 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 4 16 5 11
+player 0 draws a 6 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 4 16 5 6
+player 0 draws a 15 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 16 5 6 15
+player 0 draws a 10 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 16 5 15 10
+player 0 draws a 7 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 16 5 10 7
+player 0 draws a 14 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 16 5 10 14
+player 0 draws a 3 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 16 5 10 3
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 16 5 10 2
+player 0 draws a 8 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 16 10 2 8
+player 0 draws a 9 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 16 10 2 9
+player 0 draws a 12 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 16 2 9 12
+player 0 draws a 11 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 16 2 12 11
+player 0 draws a 4 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 16 2 12 4
+player 0 draws a 6 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 16 2 12 6
+player 0 draws a 13 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 16 12 6 13
+player 0 draws a 14 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 16 12 13 14
+player 0 draws a 3 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 16 12 14 3
+player 0 draws a 5 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 12 14 3 5
+player 0 draws a 7 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 12 14 3 7
+player 0 draws a 10 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 12 14 3 10
+player 0 draws a 9 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 14 3 10 9
+player 0 draws a 8 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 14 3 9 8
+player 0 draws a 11 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 3 9 8 11
+player 0 draws a 4 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 3 9 8 4
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 9 8 4 2
+player 0 draws a 6 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 9 4 2 6
+player 0 draws a 15 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 9 2 6 15
+player 0 draws a 16 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 9 2 6 16
+player 0 draws a 13 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 2 6 16 13
+player 0 draws a 12 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 2 16 13 12
+player 0 draws a 5 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 2 13 12 5
+player 0 draws a 14 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 2 13 5 14
+player 0 draws a 7 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 2 5 14 7
+player 0 draws a 3 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 2 14 7 3
+player 0 draws a 8 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 2 14 3 8
+player 0 draws a 11 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 14 3 8 11
+player 0 draws a 4 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 14 3 8 4
+player 0 draws a 10 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 14 3 8 10
+player 0 draws a 15 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 14 8 10 15
+player 0 draws a 6 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 8 10 15 6
+player 0 draws a 16 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 8 10 6 16
+player 0 initial hand 1 3 5 7
+player 0 draws a 9 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 3 5 7 9
+player 0 draws a 10 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 3 7 9 10
+player 0 draws a 11 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 3 9 10 11
+player 0 draws a 12 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 3 9 11 12
+player 0 draws a 6 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 3 9 12 6
+player 0 draws a 8 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 9 12 6 8
+player 0 draws a 2 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 12 6 8 2
+player 0 draws a 13 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 12 6 8 13
+player 0 draws a 4 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 6 8 13 4
+player 0 draws a 14 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 6 8 13 14
+player 0 draws a 16 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 8 13 14 16
+player 0 draws a 7 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 8 13 16 7
+player 0 draws a 5 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 8 16 7 5
+player 0 draws a 11 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 8 16 7 11
+player 0 draws a 10 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 8 16 11 10
+player 0 draws a 3 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 8 11 10 3
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 8 11 10 2
+player 0 draws a 15 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 8 11 2 15
+player 0 draws a 9 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 8 11 15 9
+player 0 draws a 12 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 8 11 9 12
+player 0 draws a 6 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 11 9 12 6
+player 0 draws a 14 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 11 9 6 14
+player 0 draws a 4 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 9 6 14 4
+player 0 draws a 13 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 9 6 4 13
+player 0 draws a 5 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 9 6 13 5
+player 0 draws a 3 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 6 13 5 3
+player 0 draws a 10 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 13 5 3 10
+player 0 draws a 2 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 13 5 3 2
+player 0 draws a 15 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 5 3 2 15
+player 0 draws a 8 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 5 3 15 8
+player 0 draws a 16 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 5 15 8 16
+player 0 draws a 11 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 15 8 16 11
+player 0 draws a 14 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 15 8 11 14
+player 0 draws a 7 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 15 11 14 7
+player 0 draws a 12 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 15 11 7 12
+player 0 draws a 9 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 15 11 7 9
+player 0 draws a 6 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 11 7 9 6
+player 0 draws a 10 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 11 9 6 10
+player 0 draws a 2 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 11 6 10 2
+player 0 draws a 3 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 11 6 2 3
+player 0 draws a 4 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 6 2 3 4
+player 0 draws a 13 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 6 3 4 13
+player 0 draws a 5 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 6 3 13 5
+player 0 draws a 8 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 3 13 5 8
+player 0 draws a 16 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 3 13 8 16
+player 0 draws a 12 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 3 8 16 12
+player 0 draws a 7 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 3 8 12 7
+player 0 draws a 15 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 3 8 12 15
+player 0 draws a 9 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 3 8 12 9
+player 0 draws a 11 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 3 12 9 11
+player 0 draws a 14 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 12 9 11 14
+player 0 draws a 4 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 12 9 11 4
+player 0 draws a 2 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 12 9 11 2
+player 0 draws a 10 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 9 11 2 10
+player 0 draws a 5 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 9 11 2 5
+player 0 draws a 6 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 11 2 5 6
+player 0 draws a 16 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 11 2 5 16
+player 0 draws a 13 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 11 2 5 13
+player 0 draws a 15 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 11 2 5 15
+player 0 draws a 8 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 11 5 15 8
+player 0 draws a 7 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 11 5 8 7
+player 0 draws a 3 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 11 5 7 3
+player 0 draws a 4 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 11 5 3 4
+player 0 draws a 12 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 11 5 4 12
+player 0 draws a 10 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 11 5 4 10
+player 0 draws a 9 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 11 4 10 9
+player 0 draws a 14 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 11 4 9 14
+player 0 draws a 6 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 11 4 14 6
+player 0 draws a 13 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 4 14 6 13
+player 0 draws a 15 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 4 14 13 15
+player 0 draws a 2 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 14 13 15 2
+player 0 draws a 7 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 13 15 2 7
+player 0 draws a 8 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 15 2 7 8
+player 0 draws a 16 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 15 2 8 16
+player 0 draws a 5 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 15 8 16 5
+player 0 draws a 12 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 15 8 5 12
+player 0 draws a 10 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 15 8 5 10
+player 0 draws a 3 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 15 8 5 3
+player 0 draws a 9 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 15 8 3 9
+player 0 draws a 11 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 15 8 9 11
+player 0 draws a 4 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 15 9 11 4
+player 0 draws a 6 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 15 11 4 6
+player 0 draws a 13 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 15 11 4 13
+player 0 draws a 2 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 11 4 13 2
+player 0 draws a 14 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 11 4 2 14
+player 0 draws a 7 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 11 4 14 7
+player 0 draws a 10 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 11 4 7 10
+player 0 draws a 5 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 4 7 10 5
+player 0 draws a 12 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 4 7 10 12
+player 0 draws a 16 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 7 10 12 16
+player 0 draws a 9 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 7 10 16 9
+player 0 draws a 8 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 7 10 9 8
+player 0 draws a 3 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 7 10 8 3
+player 0 draws a 6 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 10 8 3 6
+player 0 draws a 15 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 10 8 3 15
+player 0 draws a 13 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 10 8 3 13
+player 0 draws a 2 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 10 3 13 2
+player 0 draws a 14 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 3 13 2 14
+player 0 draws a 11 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 13 2 14 11
+player 0 draws a 4 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 13 2 14 4
+player 0 initial hand 1 6 11 16
+player 0 draws a 21 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 1 6 11 21
+player 0 draws a 22 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 1 11 21 22
+player 0 draws a 23 from deck 0
+player 0 discards a 22 to deck 1
+player 0 current hand is 1 11 21 23
+player 0 draws a 24 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 11 21 23 24
+player 0 draws a 10 from deck 0
+player 0 discards a 21 to deck 1
+player 0 current hand is 11 23 24 10
+player 0 draws a 15 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 11 23 24 15
+player 0 draws a 37 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 11 23 24 37
+player 0 draws a 38 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 23 24 37 38
+player 0 draws a 5 from deck 0
+player 0 discards a 24 to deck 1
+player 0 current hand is 23 37 38 5
+player 0 draws a 39 from deck 0
+player 0 discards a 37 to deck 1
+player 0 current hand is 23 38 5 39
+player 0 draws a 20 from deck 0
+player 0 discards a 39 to deck 1
+player 0 current hand is 23 38 5 20
+player 0 draws a 33 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 23 38 20 33
+player 0 draws a 40 from deck 0
+player 0 discards a 23 to deck 1
+player 0 current hand is 38 20 33 40
+player 0 draws a 19 from deck 0
+player 0 discards a 33 to deck 1
+player 0 current hand is 38 20 40 19
+player 0 draws a 9 from deck 0
+player 0 discards a 20 to deck 1
+player 0 current hand is 38 40 19 9
+player 0 draws a 14 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 38 40 19 14
+player 0 draws a 18 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 38 40 19 18
+player 0 draws a 36 from deck 0
+player 0 discards a 38 to deck 1
+player 0 current hand is 40 19 18 36
+player 0 draws a 35 from deck 0
+player 0 discards a 18 to deck 1
+player 0 current hand is 40 19 36 35
+player 0 draws a 30 from deck 0
+player 0 discards a 36 to deck 1
+player 0 current hand is 40 19 35 30
+player 0 draws a 8 from deck 0
+player 0 discards a 40 to deck 1
+player 0 current hand is 19 35 30 8
+player 0 draws a 31 from deck 0
+player 0 discards a 30 to deck 1
+player 0 current hand is 19 35 8 31
+player 0 draws a 34 from deck 0
+player 0 discards a 35 to deck 1
+player 0 current hand is 19 8 31 34
+player 0 draws a 29 from deck 0
+player 0 discards a 31 to deck 1
+player 0 current hand is 19 8 34 29
+player 0 draws a 7 from deck 0
+player 0 discards a 34 to deck 1
+player 0 current hand is 19 8 29 7
+player 0 draws a 13 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 19 29 7 13
+player 0 draws a 32 from deck 0
+player 0 discards a 19 to deck 1
+player 0 current hand is 29 7 13 32
+player 0 draws a 17 from deck 0
+player 0 discards a 32 to deck 1
+player 0 current hand is 29 7 13 17
+player 0 draws a 12 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 29 13 17 12
+player 0 draws a 26 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 29 13 17 26
+player 0 draws a 6 from deck 0
+player 0 discards a 17 to deck 1
+player 0 current hand is 29 13 26 6
+player 0 draws a 28 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 29 26 6 28
+player 0 draws a 25 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 29 26 28 25
+player 0 draws a 27 from deck 0
+player 0 discards a 29 to deck 1
+player 0 current hand is 26 28 25 27
+player 0 draws a 39 from deck 0
+player 0 discards a 25 to deck 1
+player 0 current hand is 26 28 27 39
+player 0 draws a 11 from deck 0
+player 0 discards a 27 to deck 1
+player 0 current hand is 26 28 39 11
+player 0 draws a 16 from deck 0
+player 0 discards a 26 to deck 1
+player 0 current hand is 28 39 11 16
+player 0 draws a 10 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 28 39 16 10
+player 0 draws a 37 from deck 0
+player 0 discards a 28 to deck 1
+player 0 current hand is 39 16 10 37
+player 0 draws a 33 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 39 16 37 33
+player 0 draws a 5 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 39 37 33 5
+player 0 draws a 21 from deck 0
+player 0 discards a 39 to deck 1
+player 0 current hand is 37 33 5 21
+player 0 draws a 23 from deck 0
+player 0 discards a 33 to deck 1
+player 0 current hand is 37 5 21 23
+player 0 draws a 15 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 37 21 23 15
+player 0 draws a 40 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 37 21 23 40
+player 0 draws a 22 from deck 0
+player 0 discards a 21 to deck 1
+player 0 current hand is 37 23 40 22
+player 0 draws a 24 from deck 0
+player 0 discards a 40 to deck 1
+player 0 current hand is 37 23 22 24
+player 0 draws a 30 from deck 0
+player 0 discards a 24 to deck 1
+player 0 current hand is 37 23 22 30
+player 0 draws a 9 from deck 0
+player 0 discards a 22 to deck 1
+player 0 current hand is 37 23 30 9
+player 0 draws a 20 from deck 0
+player 0 discards a 37 to deck 1
+player 0 current hand is 23 30 9 20
+player 0 draws a 36 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 23 30 20 36
+player 0 draws a 38 from deck 0
+player 0 discards a 30 to deck 1
+player 0 current hand is 23 20 36 38
+player 0 draws a 8 from deck 0
+player 0 discards a 36 to deck 1
+player 0 current hand is 23 20 38 8
+player 0 draws a 35 from deck 0
+player 0 discards a 20 to deck 1
+player 0 current hand is 23 38 8 35
+player 0 draws a 18 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 23 38 35 18
+player 0 draws a 14 from deck 0
+player 0 discards a 18 to deck 1
+player 0 current hand is 23 38 35 14
+player 0 draws a 19 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 23 38 35 19
+player 0 draws a 32 from deck 0
+player 0 discards a 38 to deck 1
+player 0 current hand is 23 35 19 32
+player 0 draws a 12 from deck 0
+player 0 discards a 32 to deck 1
+player 0 current hand is 23 35 19 12
+player 0 draws a 34 from deck 0
+player 0 discards a 12 to deck 1
+player 0 current hand is 23 35 19 34
+player 0 draws a 13 from deck 0
+player 0 discards a 34 to deck 1
+player 0 current hand is 23 35 19 13
+player 0 draws a 31 from deck 0
+player 0 discards a 13 to deck 1
+player 0 current hand is 23 35 19 31
+player 0 draws a 29 from deck 0
+player 0 discards a 35 to deck 1
+player 0 current hand is 23 19 31 29
+player 0 draws a 25 from deck 0
+player 0 discards a 31 to deck 1
+player 0 current hand is 23 19 29 25
+player 0 draws a 7 from deck 0
+player 0 discards a 29 to deck 1
+player 0 current hand is 23 19 25 7
+player 0 draws a 11 from deck 0
+player 0 discards a 19 to deck 1
+player 0 current hand is 23 25 7 11
+player 0 draws a 26 from deck 0
+player 0 discards a 11 to deck 1
+player 0 current hand is 23 25 7 26
+player 0 draws a 10 from deck 0
+player 0 discards a 23 to deck 1
+player 0 current hand is 25 7 26 10
+player 0 draws a 17 from deck 0
+player 0 discards a 10 to deck 1
+player 0 current hand is 25 7 26 17
+player 0 draws a 5 from deck 0
+player 0 discards a 25 to deck 1
+player 0 current hand is 7 26 17 5
+player 0 draws a 39 from deck 0
+player 0 discards a 5 to deck 1
+player 0 current hand is 7 26 17 39
+player 0 draws a 28 from deck 0
+player 0 discards a 17 to deck 1
+player 0 current hand is 7 26 39 28
+player 0 draws a 15 from deck 0
+player 0 discards a 28 to deck 1
+player 0 current hand is 7 26 39 15
+player 0 draws a 27 from deck 0
+player 0 discards a 15 to deck 1
+player 0 current hand is 7 26 39 27
+player 0 draws a 40 from deck 0
+player 0 discards a 7 to deck 1
+player 0 current hand is 26 39 27 40
+player 0 draws a 22 from deck 0
+player 0 discards a 39 to deck 1
+player 0 current hand is 26 27 40 22
+player 0 draws a 24 from deck 0
+player 0 discards a 27 to deck 1
+player 0 current hand is 26 40 22 24
+player 0 draws a 6 from deck 0
+player 0 discards a 22 to deck 1
+player 0 current hand is 26 40 24 6
+player 0 draws a 37 from deck 0
+player 0 discards a 26 to deck 1
+player 0 current hand is 40 24 6 37
+player 0 draws a 33 from deck 0
+player 0 discards a 24 to deck 1
+player 0 current hand is 40 6 37 33
+player 0 draws a 18 from deck 0
+player 0 discards a 40 to deck 1
+player 0 current hand is 6 37 33 18
+player 0 draws a 30 from deck 0
+player 0 discards a 18 to deck 1
+player 0 current hand is 6 37 33 30
+player 0 draws a 16 from deck 0
+player 0 discards a 6 to deck 1
+player 0 current hand is 37 33 30 16
+player 0 draws a 21 from deck 0
+player 0 discards a 16 to deck 1
+player 0 current hand is 37 33 30 21
+player 0 draws a 14 from deck 0
+player 0 discards a 30 to deck 1
+player 0 current hand is 37 33 21 14
+player 0 draws a 38 from deck 0
+player 0 discards a 37 to deck 1
+player 0 current hand is 33 21 14 38
+player 0 draws a 9 from deck 0
+player 0 discards a 38 to deck 1
+player 0 current hand is 33 21 14 9
+player 0 draws a 34 from deck 0
+player 0 discards a 21 to deck 1
+player 0 current hand is 33 14 9 34
+player 0 draws a 20 from deck 0
+player 0 discards a 9 to deck 1
+player 0 current hand is 33 14 34 20
+player 0 draws a 32 from deck 0
+player 0 discards a 33 to deck 1
+player 0 current hand is 14 34 20 32
+player 0 draws a 8 from deck 0
+player 0 discards a 32 to deck 1
+player 0 current hand is 14 34 20 8
+player 0 draws a 36 from deck 0
+player 0 discards a 20 to deck 1
+player 0 current hand is 14 34 8 36
+player 0 draws a 35 from deck 0
+player 0 discards a 34 to deck 1
+player 0 current hand is 14 8 36 35
+player 0 draws a 19 from deck 0
+player 0 discards a 14 to deck 1
+player 0 current hand is 8 36 35 19
+player 0 draws a 23 from deck 0
+player 0 discards a 19 to deck 1
+player 0 current hand is 8 36 35 23
+player 0 draws a 13 from deck 0
+player 0 discards a 8 to deck 1
+player 0 current hand is 36 35 23 13
+player 0 draws a 10 from deck 0
+player 0 discards a 36 to deck 1
+player 0 current hand is 35 23 13 10
+player 0 draws a 29 from deck 0
+player 0 discards a 35 to deck 1
+player 0 current hand is 23 13 10 29
+player 0 draws a 28 from deck 0
+player 0 discards a 29 to deck 1
+player 0 current hand is 23 13 10 28
+player 0 draws a 31 from deck 0
+player 0 discards a 28 to deck 1
+player 0 current hand is 23 13 10 31
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 1 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 1 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 3 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 3 3 3
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 3 3 2
+player 0 draws a 4 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 3 3 2 4
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 3 2 4 2
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 2 4 4
+player 0 draws a 4 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 3 2 4 4
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 4 4 4
+player 0 has been informed that another player has won
+player 0 exits
+player 0 hand: 3 4 4 4
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 2 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 2 3 3
+player 0 draws a 2 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 3 3 2
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 3 2 2
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 3 2 4
+player 0 draws a 4 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 3 2 4 4
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 4 4 4
+player 0 draws a 4 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 4 4 4 4
+player 0 wins
+player 0 exits
+player 0 final hand: 4 4 4 4
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 2 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 2 3 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 2 3 3 3
+player 0 draws a 2 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 3 3 2
+player 0 draws a 4 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 3 3 2 4
+player 0 draws a 2 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 3 3 2 2
+player 0 has been informed that another player has won
+player 0 exits
+player 0 hand: 3 3 2 2
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 2 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 3 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 3 3 3
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 3 3 2
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 3 2 2
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 3 2 4
+player 0 draws a 4 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 3 2 4 4
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 4 4 4
+player 0 draws a 4 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 4 4 4 4
+player 0 wins
+player 0 exits
+player 0 final hand: 4 4 4 4
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 2 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 2 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 2 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 2 3 3 3
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 2 3 3 2
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 2 3 3 4
+player 0 has been informed that another player has won
+player 0 exits
+player 0 hand: 2 3 3 4
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 1 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 1 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 1 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 1 3 3
+player 0 draws a 2 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 3 3 2
+player 0 draws a 2 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 3 3 2 2
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 3 2 4
+player 0 draws a 4 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 3 3 2 4
+player 0 draws a 4 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 3 2 4 4
+player 0 draws a 2 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 4 4 2
+player 0 has been informed that another player has won
+player 0 exits
+player 0 hand: 3 4 4 2
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 1 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 3 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 3 3 3
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 3 3 2
+player 0 draws a 4 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 3 2 4
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 3 4 4
+player 0 draws a 2 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 3 4 4 2
+player 0 draws a 4 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 3 4 2 4
+player 0 draws a 2 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 4 2 4 2
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 4 2 4 4
+player 0 draws a 2 from deck 0
+player 0 discards a 4 to deck 1
+player 0 current hand is 4 2 4 2
+player 0 has been informed that another player has won
+player 0 exits
+player 0 hand: 4 2 4 2
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 1 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 1 2 3 3
+player 0 draws a 2 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 2 3 3 2
+player 0 draws a 2 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 3 2 2
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 3 2 4
+player 0 draws a 4 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 3 4 4
+player 0 draws a 4 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 3 4 4 4
+player 0 has been informed that another player has won
+player 0 exits
+player 0 hand: 3 4 4 4
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 1 1 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 2 3 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 3 3 3 3
+player 0 wins
+player 0 exits
+player 0 final hand: 3 3 3 3
+player 0 initial hand 1 1 2 2
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 1 2 2 3
+player 0 draws a 3 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 2 2 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 2 to deck 1
+player 0 current hand is 2 3 3 3
+player 0 draws a 3 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 2 3 3 3
+player 0 draws a 1 from deck 0
+player 0 discards a 3 to deck 1
+player 0 current hand is 2 3 3 1
+player 0 draws a 2 from deck 0
+player 0 discards a 1 to deck 1
+player 0 current hand is 2 3 3 2
+player 0 has been informed that another player has won
+player 0 exits
+player 0 hand: 2 3 3 2

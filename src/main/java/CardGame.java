@@ -168,6 +168,14 @@ public class CardGame {
         scanner.close();
     }
 
+    public List<Player> getPlayers() {
+        return players;
+    }
+    
+    public List<CardDeck> getDecks() {
+        return decks;
+    }
+        
 }
 
     

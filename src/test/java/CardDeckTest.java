@@ -27,6 +27,7 @@ public class CardDeckTest {
 
     @Test
     public void testAddCardToDeck() {
+        // Testing if card is getting added to deck
         deck.addCardToDeck(card1);
         assertEquals("Deck size should be 1 after adding a card,", 1, deck.getSize());
         deck.addCardToDeck(card2);
@@ -35,6 +36,7 @@ public class CardDeckTest {
 
     @Test
     public void testDrawCard() {
+        // Testing if card is getting drawn from deck
         deck.addCardToDeck(card1);
         deck.addCardToDeck(card2);
 
@@ -51,6 +53,7 @@ public class CardDeckTest {
 
     @Test
     public void testGetSize() {
+        // Testing if getSize() method works as intended
         assertEquals("Deck size should be 0 initially,", 0, deck.getSize());
 
         deck.addCardToDeck(card1);
@@ -65,11 +68,13 @@ public class CardDeckTest {
     
    @Test
    public void testGetDeckID() {
+        // Testing if getDeckID() method returns the correct ID
         assertEquals("Deck ID should be 0,", 0, deck.getDeckID());
    }
 
    @Test
    public void testWriteDeckContentsToFile() throws FileNotFoundException, IOException {
+        // Testing if deck contents are written to file correctly
         deck.addCardToDeck(card1);
         deck.addCardToDeck(card2);
 

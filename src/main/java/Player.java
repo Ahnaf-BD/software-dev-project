@@ -15,7 +15,7 @@ public class Player implements Runnable {
     private final CardDeck rightDeck;
     private final AtomicBoolean hasWon;
     private final AtomicBoolean gameEnded;
-    private final String outputFile;
+    public final String outputFile;
     private Thread gameThread;
     private final Random random;
     private final Object handLock;
@@ -38,8 +38,12 @@ public class Player implements Runnable {
         this.handLock = new Object();
     }
 
-    public List getPlayerHand() {
+    public List<Card> getPlayerHand() {
         return hand;
+    }
+
+    public Thread getThread() {
+        return gameThread;
     }
 
     /**
@@ -221,5 +225,9 @@ public class Player implements Runnable {
      */
     public int getPlayerID() {
         return playerID;
+    }
+
+    public void setWinningHand(boolean hasWon) {
+        this.hasWon.set(hasWon);
     }
 }

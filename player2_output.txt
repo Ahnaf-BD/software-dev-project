@@ -14,3 +14,364 @@ player 2 current hand is 1 2 4 4
 player 2 has been informed that another player has won
 player 2 exits
 player 2 hand: 1 2 4 4
+player 2 initial hand 1 1 2 3
+player 2 draws a 4 from deck 2
+player 2 discards a 1 to deck 3
+player 2 current hand is 1 2 3 4
+player 2 draws a 4 from deck 2
+player 2 discards a 1 to deck 3
+player 2 current hand is 2 3 4 4
+player 2 draws a 4 from deck 2
+player 2 discards a 3 to deck 3
+player 2 current hand is 2 4 4 4
+player 2 draws a 4 from deck 2
+player 2 discards a 4 to deck 3
+player 2 current hand is 2 4 4 4
+player 2 has been informed that another player has won
+player 2 exits
+player 2 hand: 2 4 4 4
+player 2 initial hand 1 1 2 3
+player 2 draws a 4 from deck 2
+player 2 discards a 3 to deck 3
+player 2 current hand is 1 1 2 4
+player 2 draws a 4 from deck 2
+player 2 discards a 1 to deck 3
+player 2 current hand is 1 2 4 4
+player 2 draws a 4 from deck 2
+player 2 discards a 4 to deck 3
+player 2 current hand is 1 2 4 4
+player 2 draws a 4 from deck 2
+player 2 discards a 1 to deck 3
+player 2 current hand is 2 4 4 4
+player 2 draws a 2 from deck 2
+player 2 discards a 4 to deck 3
+player 2 current hand is 2 4 4 2
+player 2 draws a 4 from deck 2
+player 2 discards a 4 to deck 3
+player 2 current hand is 2 4 2 4
+player 2 has been informed that another player has won
+player 2 exits
+player 2 hand: 2 4 2 4
+player 2 initial hand 3 8 13 18
+player 2 draws a 29 from deck 2
+player 2 discards a 18 to deck 3
+player 2 current hand is 3 8 13 29
+player 2 draws a 30 from deck 2
+player 2 discards a 8 to deck 3
+player 2 current hand is 3 13 29 30
+player 2 draws a 31 from deck 2
+player 2 discards a 30 to deck 3
+player 2 current hand is 3 13 29 31
+player 2 draws a 32 from deck 2
+player 2 discards a 13 to deck 3
+player 2 current hand is 3 29 31 32
+player 2 draws a 7 from deck 2
+player 2 discards a 3 to deck 3
+player 2 current hand is 29 31 32 7
+player 2 draws a 2 from deck 2
+player 2 discards a 7 to deck 3
+player 2 current hand is 29 31 32 2
+player 2 draws a 12 from deck 2
+player 2 discards a 31 to deck 3
+player 2 current hand is 29 32 2 12
+player 2 draws a 17 from deck 2
+player 2 discards a 32 to deck 3
+player 2 current hand is 29 2 12 17
+player 2 draws a 25 from deck 2
+player 2 discards a 29 to deck 3
+player 2 current hand is 2 12 17 25
+player 2 draws a 28 from deck 2
+player 2 discards a 25 to deck 3
+player 2 current hand is 2 12 17 28
+player 2 draws a 6 from deck 2
+player 2 discards a 12 to deck 3
+player 2 current hand is 2 17 28 6
+player 2 draws a 27 from deck 2
+player 2 discards a 17 to deck 3
+player 2 current hand is 2 28 6 27
+player 2 draws a 26 from deck 2
+player 2 discards a 6 to deck 3
+player 2 current hand is 2 28 27 26
+player 2 draws a 16 from deck 2
+player 2 discards a 28 to deck 3
+player 2 current hand is 2 27 26 16
+player 2 draws a 10 from deck 2
+player 2 discards a 26 to deck 3
+player 2 current hand is 2 27 16 10
+player 2 draws a 15 from deck 2
+player 2 discards a 16 to deck 3
+player 2 current hand is 2 27 10 15
+player 2 draws a 22 from deck 2
+player 2 discards a 27 to deck 3
+player 2 current hand is 2 10 15 22
+player 2 draws a 21 from deck 2
+player 2 discards a 10 to deck 3
+player 2 current hand is 2 15 22 21
+player 2 draws a 37 from deck 2
+player 2 discards a 21 to deck 3
+player 2 current hand is 2 15 22 37
+player 2 draws a 39 from deck 2
+player 2 discards a 15 to deck 3
+player 2 current hand is 2 22 37 39
+player 2 draws a 11 from deck 2
+player 2 discards a 39 to deck 3
+player 2 current hand is 2 22 37 11
+player 2 draws a 5 from deck 2
+player 2 discards a 11 to deck 3
+player 2 current hand is 2 22 37 5
+player 2 draws a 33 from deck 2
+player 2 discards a 37 to deck 3
+player 2 current hand is 2 22 5 33
+player 2 draws a 23 from deck 2
+player 2 discards a 33 to deck 3
+player 2 current hand is 2 22 5 23
+player 2 draws a 9 from deck 2
+player 2 discards a 23 to deck 3
+player 2 current hand is 2 22 5 9
+player 2 draws a 20 from deck 2
+player 2 discards a 5 to deck 3
+player 2 current hand is 2 22 9 20
+player 2 draws a 24 from deck 2
+player 2 discards a 22 to deck 3
+player 2 current hand is 2 9 20 24
+player 2 draws a 38 from deck 2
+player 2 discards a 20 to deck 3
+player 2 current hand is 2 9 24 38
+player 2 draws a 36 from deck 2
+player 2 discards a 9 to deck 3
+player 2 current hand is 2 24 38 36
+player 2 draws a 40 from deck 2
+player 2 discards a 24 to deck 3
+player 2 current hand is 2 38 36 40
+player 2 draws a 30 from deck 2
+player 2 discards a 40 to deck 3
+player 2 current hand is 2 38 36 30
+player 2 draws a 18 from deck 2
+player 2 discards a 38 to deck 3
+player 2 current hand is 2 36 30 18
+player 2 draws a 14 from deck 2
+player 2 discards a 30 to deck 3
+player 2 current hand is 2 36 18 14
+player 2 draws a 35 from deck 2
+player 2 discards a 36 to deck 3
+player 2 current hand is 2 18 14 35
+player 2 draws a 31 from deck 2
+player 2 discards a 35 to deck 3
+player 2 current hand is 2 18 14 31
+player 2 draws a 8 from deck 2
+player 2 discards a 31 to deck 3
+player 2 current hand is 2 18 14 8
+player 2 draws a 32 from deck 2
+player 2 discards a 18 to deck 3
+player 2 current hand is 2 14 8 32
+player 2 draws a 34 from deck 2
+player 2 discards a 8 to deck 3
+player 2 current hand is 2 14 32 34
+player 2 draws a 19 from deck 2
+player 2 discards a 14 to deck 3
+player 2 current hand is 2 32 34 19
+player 2 draws a 7 from deck 2
+player 2 discards a 19 to deck 3
+player 2 current hand is 2 32 34 7
+player 2 draws a 12 from deck 2
+player 2 discards a 34 to deck 3
+player 2 current hand is 2 32 7 12
+player 2 draws a 6 from deck 2
+player 2 discards a 32 to deck 3
+player 2 current hand is 2 7 12 6
+player 2 draws a 13 from deck 2
+player 2 discards a 12 to deck 3
+player 2 current hand is 2 7 6 13
+player 2 draws a 17 from deck 2
+player 2 discards a 13 to deck 3
+player 2 current hand is 2 7 6 17
+player 2 draws a 29 from deck 2
+player 2 discards a 7 to deck 3
+player 2 current hand is 2 6 17 29
+player 2 draws a 26 from deck 2
+player 2 discards a 17 to deck 3
+player 2 current hand is 2 6 29 26
+player 2 draws a 11 from deck 2
+player 2 discards a 29 to deck 3
+player 2 current hand is 2 6 26 11
+player 2 draws a 25 from deck 2
+player 2 discards a 6 to deck 3
+player 2 current hand is 2 26 11 25
+player 2 draws a 10 from deck 2
+player 2 discards a 25 to deck 3
+player 2 current hand is 2 26 11 10
+player 2 draws a 27 from deck 2
+player 2 discards a 10 to deck 3
+player 2 current hand is 2 26 11 27
+player 2 draws a 39 from deck 2
+player 2 discards a 11 to deck 3
+player 2 current hand is 2 26 27 39
+player 2 draws a 16 from deck 2
+player 2 discards a 26 to deck 3
+player 2 current hand is 2 27 39 16
+player 2 draws a 28 from deck 2
+player 2 discards a 27 to deck 3
+player 2 current hand is 2 39 16 28
+player 2 draws a 33 from deck 2
+player 2 discards a 39 to deck 3
+player 2 current hand is 2 16 28 33
+player 2 draws a 5 from deck 2
+player 2 discards a 28 to deck 3
+player 2 current hand is 2 16 33 5
+player 2 draws a 21 from deck 2
+player 2 discards a 5 to deck 3
+player 2 current hand is 2 16 33 21
+player 2 draws a 40 from deck 2
+player 2 discards a 21 to deck 3
+player 2 current hand is 2 16 33 40
+player 2 draws a 15 from deck 2
+player 2 discards a 40 to deck 3
+player 2 current hand is 2 16 33 15
+player 2 draws a 22 from deck 2
+player 2 discards a 15 to deck 3
+player 2 current hand is 2 16 33 22
+player 2 draws a 9 from deck 2
+player 2 discards a 22 to deck 3
+player 2 current hand is 2 16 33 9
+player 2 draws a 24 from deck 2
+player 2 discards a 33 to deck 3
+player 2 current hand is 2 16 9 24
+player 2 draws a 30 from deck 2
+player 2 discards a 9 to deck 3
+player 2 current hand is 2 16 24 30
+player 2 draws a 37 from deck 2
+player 2 discards a 24 to deck 3
+player 2 current hand is 2 16 30 37
+player 2 draws a 20 from deck 2
+player 2 discards a 37 to deck 3
+player 2 current hand is 2 16 30 20
+player 2 draws a 18 from deck 2
+player 2 discards a 16 to deck 3
+player 2 current hand is 2 30 20 18
+player 2 draws a 8 from deck 2
+player 2 discards a 18 to deck 3
+player 2 current hand is 2 30 20 8
+player 2 draws a 38 from deck 2
+player 2 discards a 30 to deck 3
+player 2 current hand is 2 20 8 38
+player 2 draws a 36 from deck 2
+player 2 discards a 38 to deck 3
+player 2 current hand is 2 20 8 36
+player 2 draws a 14 from deck 2
+player 2 discards a 8 to deck 3
+player 2 current hand is 2 20 36 14
+player 2 draws a 34 from deck 2
+player 2 discards a 14 to deck 3
+player 2 current hand is 2 20 36 34
+player 2 draws a 32 from deck 2
+player 2 discards a 36 to deck 3
+player 2 current hand is 2 20 34 32
+player 2 draws a 35 from deck 2
+player 2 discards a 34 to deck 3
+player 2 current hand is 2 20 32 35
+player 2 draws a 13 from deck 2
+player 2 discards a 20 to deck 3
+player 2 current hand is 2 32 35 13
+player 2 draws a 29 from deck 2
+player 2 discards a 32 to deck 3
+player 2 current hand is 2 35 13 29
+player 2 draws a 12 from deck 2
+player 2 discards a 13 to deck 3
+player 2 current hand is 2 35 29 12
+player 2 draws a 19 from deck 2
+player 2 discards a 35 to deck 3
+player 2 current hand is 2 29 12 19
+player 2 draws a 23 from deck 2
+player 2 discards a 19 to deck 3
+player 2 current hand is 2 29 12 23
+player 2 draws a 31 from deck 2
+player 2 discards a 23 to deck 3
+player 2 current hand is 2 29 12 31
+player 2 draws a 10 from deck 2
+player 2 discards a 31 to deck 3
+player 2 current hand is 2 29 12 10
+player 2 draws a 11 from deck 2
+player 2 discards a 12 to deck 3
+player 2 current hand is 2 29 10 11
+player 2 draws a 25 from deck 2
+player 2 discards a 29 to deck 3
+player 2 current hand is 2 10 11 25
+player 2 draws a 28 from deck 2
+player 2 discards a 10 to deck 3
+player 2 current hand is 2 11 25 28
+player 2 draws a 17 from deck 2
+player 2 discards a 28 to deck 3
+player 2 current hand is 2 11 25 17
+player 2 draws a 15 from deck 2
+player 2 discards a 11 to deck 3
+player 2 current hand is 2 25 17 15
+player 2 draws a 39 from deck 2
+player 2 discards a 15 to deck 3
+player 2 current hand is 2 25 17 39
+player 2 draws a 7 from deck 2
+player 2 discards a 25 to deck 3
+player 2 current hand is 2 17 39 7
+player 2 draws a 5 from deck 2
+player 2 discards a 7 to deck 3
+player 2 current hand is 2 17 39 5
+player 2 draws a 26 from deck 2
+player 2 discards a 17 to deck 3
+player 2 current hand is 2 39 5 26
+player 2 draws a 27 from deck 2
+player 2 discards a 39 to deck 3
+player 2 current hand is 2 5 26 27
+player 2 draws a 40 from deck 2
+player 2 discards a 27 to deck 3
+player 2 current hand is 2 5 26 40
+player 2 draws a 18 from deck 2
+player 2 discards a 40 to deck 3
+player 2 current hand is 2 5 26 18
+player 2 draws a 24 from deck 2
+player 2 discards a 5 to deck 3
+player 2 current hand is 2 26 18 24
+player 2 draws a 22 from deck 2
+player 2 discards a 24 to deck 3
+player 2 current hand is 2 26 18 22
+player 2 draws a 16 from deck 2
+player 2 discards a 18 to deck 3
+player 2 current hand is 2 26 22 16
+player 2 draws a 30 from deck 2
+player 2 discards a 16 to deck 3
+player 2 current hand is 2 26 22 30
+player 2 draws a 38 from deck 2
+player 2 discards a 30 to deck 3
+player 2 current hand is 2 26 22 38
+player 2 draws a 6 from deck 2
+player 2 discards a 26 to deck 3
+player 2 current hand is 2 22 38 6
+player 2 draws a 37 from deck 2
+player 2 discards a 38 to deck 3
+player 2 current hand is 2 22 6 37
+player 2 draws a 33 from deck 2
+player 2 discards a 22 to deck 3
+player 2 current hand is 2 6 37 33
+player 2 draws a 9 from deck 2
+player 2 discards a 33 to deck 3
+player 2 current hand is 2 6 37 9
+player 2 initial hand 1 1 2 3
+player 2 draws a 4 from deck 2
+player 2 discards a 1 to deck 3
+player 2 current hand is 1 2 3 4
+player 2 draws a 4 from deck 2
+player 2 discards a 1 to deck 3
+player 2 current hand is 2 3 4 4
+player 2 draws a 4 from deck 2
+player 2 discards a 4 to deck 3
+player 2 current hand is 2 3 4 4
+player 2 draws a 4 from deck 2
+player 2 discards a 4 to deck 3
+player 2 current hand is 2 3 4 4
+player 2 draws a 3 from deck 2
+player 2 discards a 4 to deck 3
+player 2 current hand is 2 3 4 3
+player 2 draws a 4 from deck 2
+player 2 discards a 3 to deck 3
+player 2 current hand is 2 4 3 4
+player 2 has been informed that another player has won
+player 2 exits
+player 2 hand: 2 4 3 4
