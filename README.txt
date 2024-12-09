@@ -4,7 +4,8 @@ Welcome to our multi-threaded Card playing simulation!
 
 #Prerequisities
 
-#Include what you did to setup JUnit here boss
+Tests are run using the JUnit 4 framework. Please ensure that JUnit 4 is installed on your system. If it is not installed,
+download the JUnit 4 jar file from the JUnit website. The jar file should be installed in the lib directory of the project.
 
 #Testing
 
