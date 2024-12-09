@@ -125,7 +125,7 @@ public class CardGame {
 
         // write final deck contents to file
         for (CardDeck deck : decks) {
-            deck.writeDeckContentsToFile(String.format("deck%d_output.txt", deck.getDeckID() + 1));
+            deck.writeDeckContentsToFile(String.format("deck%d_output.txt", deck.getDeckID()));
         }
     }
 
@@ -135,7 +135,7 @@ public class CardGame {
         */
 
     public void notifyAllPlayers(int winningPlayerID) {
-        System.out.println("Player " + (winningPlayerID + 1) + " has won the game");
+        System.out.println("Player " + (winningPlayerID) + " has won the game");
         for (Player player : players) {
             player.notifyGameEnd(winningPlayerID);
         }

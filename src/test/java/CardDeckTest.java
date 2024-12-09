@@ -84,7 +84,7 @@ public class CardDeckTest {
         try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
             String line = reader.readLine();
             assertNotNull("File should not be empty", line);
-            assertTrue("File should include correct initial deck ID,", line.contains("deck2 contents"));
+            assertTrue("File should include correct initial deck ID,", line.contains("deck1 contents"));
             assertTrue("File should include the first card,", line.contains(card1.toString()));
             assertTrue("File should include the second card,", line.contains(card2.toString()));
         }
