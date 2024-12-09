@@ -16,8 +16,7 @@ public class CardGameTest {
     public void setUp() {
         // Runs before each test
         int numPlayers = 2;
-        String mockPackPath = "C:/Uni/ECM2414 Coursework/software-dev-project/src/test/java/mockPack.txt";
-
+        String mockPackPath = "C:/Uni/ECM2414 Coursework/software-dev-project/src/test/java/mockPack.txt"; // Change the path to whatever it is in your own system
         cardGame = new CardGame(numPlayers, mockPackPath);
     }
 
@@ -31,14 +30,14 @@ public class CardGameTest {
     @Test(expected = IllegalArgumentException.class)
     public void testInvalidPackSize() {
         /// Test for invalid pack size (must be 8 * numPlayers cards)
-        String invalidPackPath = "C:/Uni/ECM2414 Coursework/software-dev-project/src/test/java/invalidPackSize.txt";
+        String invalidPackPath = "C:/Uni/ECM2414 Coursework/software-dev-project/src/test/java/invalidPackSize.txt"; // Change the path to whatever it is in your own system
         cardGame = new CardGame(2, invalidPackPath);
     }
 
     @Test
     public void testDistributeCards() {
         // Test for distributing cards to players
-        cardGame.loadPack("C:/Uni/ECM2414 Coursework/software-dev-project/src/test/java/mockPack.txt");
+        cardGame.loadPack("C:/Uni/ECM2414 Coursework/software-dev-project/src/test/java/mockPack.txt"); // Change the path to whatever it is in your own system
         cardGame.distributeCards();
 
         for (Player player : cardGame.getPlayers()) {
