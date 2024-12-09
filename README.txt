@@ -5,7 +5,8 @@ Welcome to our multi-threaded Card playing simulation!
 #Prerequisities
 
 Tests are run using the JUnit 4 framework. Please ensure that JUnit 4 is installed on your system. If it is not installed,
-download the JUnit 4 jar file from the JUnit website. The jar file should be installed in the lib directory of the project.
+download the JUnit 4 jar file from the JUnit website. The jar file should be installed in the lib directory of the project
+along with the hamcrest-core jar file.
 
 #Testing
 

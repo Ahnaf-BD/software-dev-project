@@ -73,7 +73,7 @@ public class CardGame {
 
     /** distibutes cards to players and decks */
     public void distributeCards() {
-        int cardIndex= 0;
+        int cardIndex = 0;
 
         // 4 cards to each player
         for (int i = 0; i < 4; i++) {
