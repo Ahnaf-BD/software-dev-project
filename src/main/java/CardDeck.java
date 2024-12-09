@@ -50,7 +50,7 @@ public class CardDeck {
 
     public void writeDeckContentsToFile(String filename) { // filename will be entered when method called e.g. player1_output.txt
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filename))) {
-            writer.write(String.format("deck%d contents ", this.deckID));
+            writer.write(String.format("deck%d contents ", this.deckID+1));
             for (Card card: cards) {
                 writer.write(card.toString() + " ");
 
